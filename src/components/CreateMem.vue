@@ -236,7 +236,6 @@
     height: 100%
     box-sizing: border-box
     padding-top: 60px
-
   .slider
     height: 15%
     *
@@ -266,6 +265,7 @@
         border-radius: 50%
         padding: 4px
         cursor: pointer
+        margin-bottom: 5px
         img
           display: block
           width: 100%
